@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reproject/static/css/main.f855e6bc.css",
+    "main.js": "/reproject/static/js/main.11c16253.js",
+    "static/js/453.7bcb6918.chunk.js": "/reproject/static/js/453.7bcb6918.chunk.js",
+    "static/media/logo.svg": "/reproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reproject/index.html",
+    "main.f855e6bc.css.map": "/reproject/static/css/main.f855e6bc.css.map",
+    "main.11c16253.js.map": "/reproject/static/js/main.11c16253.js.map",
+    "453.7bcb6918.chunk.js.map": "/reproject/static/js/453.7bcb6918.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.11c16253.js"
+  ]
+}
